@@ -1,12 +1,12 @@
 # BtSpot
 
+BtSpot salva da sola la posizione del telefono quando si scollega da un dispositivo Bluetooth, per esempio l'auto quando spegni il motore. Così, in un parcheggio grande, ritrovi l'auto.
+
 ## Scarica
 
 **[Ultima versione: BtSpot-<versione>.apk](https://github.com/Frn763/BtSpot-download/releases/latest)** (in fondo alla pagina, sotto "Assets"). Serve Android 13 o più recente.
 
 Qui ci sono solo l'APK e le istruzioni: il codice dell'app non è pubblico.
-
-BtSpot salva da sola la posizione del telefono quando si scollega da un dispositivo Bluetooth, per esempio l'auto quando spegni il motore. Così, in un parcheggio grande, ritrovi l'auto.
 
 ## Prima di iniziare
 
