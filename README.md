@@ -1,7 +1,5 @@
 # BtSpot
 
-App Android che salva da sola la posizione del telefono quando si scollega da un dispositivo Bluetooth, per esempio l'auto quando spegni il motore.
-
 ## Scarica
 
 **[Ultima versione: BtSpot-<versione>.apk](https://github.com/Frn763/BtSpot-download/releases/latest)** (in fondo alla pagina, sotto "Assets"). Serve Android 13 o più recente.
